@@ -5,4 +5,6 @@ https://asciinema.org/a/14f1HXtTJnC7vhlNKfutbY8Op (brain-even)
 https://asciinema.org/a/0NiDOdhDNDo2j4XAfn9VeYOjw (brain-calc)
 https://asciinema.org/a/qEGSdA1R5QS3Vt49cwzPybXwz (brain-gcd)
 https://asciinema.org/a/Qw5j60YPYiG7fE5fr3CApmGWh (brain-progression)
+https://asciinema.org/a/EyB10gYBkFjDUdF86LLXegmFg (brain-prime)
+
 
